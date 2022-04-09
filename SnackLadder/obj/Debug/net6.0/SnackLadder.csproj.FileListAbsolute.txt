@@ -1,0 +1,15 @@
+D:\gitjsp\SnackLadder\SnackLadder\bin\Debug\net6.0\SnackLadder.exe
+D:\gitjsp\SnackLadder\SnackLadder\bin\Debug\net6.0\SnackLadder.deps.json
+D:\gitjsp\SnackLadder\SnackLadder\bin\Debug\net6.0\SnackLadder.runtimeconfig.json
+D:\gitjsp\SnackLadder\SnackLadder\bin\Debug\net6.0\SnackLadder.dll
+D:\gitjsp\SnackLadder\SnackLadder\bin\Debug\net6.0\SnackLadder.pdb
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.csproj.AssemblyReference.cache
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.AssemblyInfoInputs.cache
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.AssemblyInfo.cs
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.csproj.CoreCompileInputs.cache
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.dll
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\refint\SnackLadder.dll
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.pdb
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\SnackLadder.genruntimeconfig.cache
+D:\gitjsp\SnackLadder\SnackLadder\obj\Debug\net6.0\ref\SnackLadder.dll

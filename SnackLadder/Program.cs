@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using SnakeLadderGame;
 public class program
 {
@@ -7,6 +6,6 @@ public class program
     {
         SnakeGame game = new SnakeGame();
         int start = game.dieRoll();
-        Console.WriteLine("Welcome in the Game, Your Position is: " + "****" + start + "****");
+        Console.WriteLine("Welcome in the Game, You got : " + start + "  " + "Position");
     }
 }
